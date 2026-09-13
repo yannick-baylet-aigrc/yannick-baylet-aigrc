@@ -13,9 +13,11 @@ Former Naval Officer and Risk Manager translating military threat assessment and
 ---
 
 ### 📚 Open-Source Frameworks & Repositories
-* ⚔️ **AI Threat Modeling Military Framework** — *Translating physical threat surfaces into LLM attack vector assessments (In Development).*
-* 🗺️ **ISO 42001 to EU AI Act Crosswalk** — *Operational mapping matrix between AIMS controls and EU AI Act mandates (In Development).*
-* 📋 **Enterprise AI Vendor Risk Toolkit** — *Third-party AI auditing checklist for CISOs and risk teams (In Development).*
+
+* 📄 **[AI Governance & Machine Identity](https://github.com/yannick-baylet-aigrc/ai-governance-machine-identity)** — *Research paper shifting AI GRC from data leakage to Non-Human Identity (NHI) and agentic controls.* **(Published)**
+* ⚔️ **AI Threat Modeling Military Framework** — *Translating physical threat surfaces into LLM attack vector assessments.* **(In Development — Up Next)**
+* 🗺️ **ISO 42001 to EU AI Act Crosswalk** — *Operational mapping matrix between AIMS controls and EU AI Act mandates.* **(In Development)**
+* 📋 **Enterprise AI Vendor Risk Toolkit** — *Third-party AI auditing checklist for CISOs and risk teams.* **(In Development)**
 
 ---
 
