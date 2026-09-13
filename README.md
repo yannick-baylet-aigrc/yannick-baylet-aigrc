@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yannick Baylet 👋
+### AI GRC & Security Strategist | Ex-Naval Officer & Operational Risk Manager
 
-<!--
-**yannick-baylet-aigrc/yannick-baylet-aigrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former Naval Officer and Risk Manager translating military threat assessment and crisis prevention into enterprise AI Governance, Risk, and Compliance (GRC). Bridging international frameworks (**EU AI Act, ISO/IEC 42001, NIS 2, DORA**) for global organizations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Focus Areas & Core Expertise
+* **AI Governance & Standards:** ISO/IEC 42001 (AIMS implementation), NIST AI RMF, EU AI Act compliance mapping.
+* **Adversarial Risk & Threat Modeling:** Non-technical AI threat surfaces, prompt injection risks, data integrity, and operational fail-safes.
+* **Enterprise Supply Chain Risk:** Third-party LLM oversight, AI vendor audit frameworks, and data sovereignty under DORA & NIS2.
+
+---
+
+### 📚 Open-Source Frameworks & Repositories
+* ⚔️ **[AI Threat Modeling Military Framework](#)** — *Translating physical threat surfaces into LLM attack vector assessments.*
+* 🗺️ **[ISO 42001 to EU AI Act Crosswalk](#)** — *Operational mapping matrix between AIMS controls and EU AI Act mandates (In Development).*
+* 📋 **[Enterprise AI Vendor Risk Toolkit](#)** — *Third-party AI auditing checklist for CISOs and risk teams (In Development).*
+
+---
+
+### 💬 Connect & Collaborate
+* **LinkedIn:** [yannick-baylet](https://www.linkedin.com/in/yannick-baylet-ai-grc)
+* **Location:** France / Remote
+* **Languages:** French (Native), English (Bilingual), Spanish (Professional)
