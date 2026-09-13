@@ -13,9 +13,9 @@ Former Naval Officer and Risk Manager translating military threat assessment and
 ---
 
 ### 📚 Open-Source Frameworks & Repositories
-* ⚔️ **[AI Threat Modeling Military Framework](#)** — *Translating physical threat surfaces into LLM attack vector assessments.*
-* 🗺️ **[ISO 42001 to EU AI Act Crosswalk](#)** — *Operational mapping matrix between AIMS controls and EU AI Act mandates (In Development).*
-* 📋 **[Enterprise AI Vendor Risk Toolkit](#)** — *Third-party AI auditing checklist for CISOs and risk teams (In Development).*
+* ⚔️ **AI Threat Modeling Military Framework** — *Translating physical threat surfaces into LLM attack vector assessments (In Development).*
+* 🗺️ **ISO 42001 to EU AI Act Crosswalk** — *Operational mapping matrix between AIMS controls and EU AI Act mandates (In Development).*
+* 📋 **Enterprise AI Vendor Risk Toolkit** — *Third-party AI auditing checklist for CISOs and risk teams (In Development).*
 
 ---
 
